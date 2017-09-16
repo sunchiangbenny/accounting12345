@@ -1,0 +1,31 @@
+body{
+     background-color: yellow;
+     padding-top:220px;
+}
+h1{
+	 font-size: 40px;
+	 color:white;
+	 font-style: italic;
+	 text-align:center;
+}
+h2{
+	 color:white;
+	 font-size: 30px;
+	 text-align:center;
+
+}
+h3{
+     color:white;
+	 font-size: 30px;
+	 text-align:center;
+}
+p{
+	 text-align:center;
+}
+div{
+	 text-align:center;
+}
+h5{
+	 color:red;
+	 font-size: 30px;
+}
